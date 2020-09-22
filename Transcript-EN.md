@@ -30,7 +30,7 @@ Step 1 - The reasons to pair: the fundamentals, what is in for you and your team
 Step 2 - The theory of pairing: a bit of theory never hurts <br>
 Step 3 - The practice of pairing: some good tools and frameworks <br>
 
-## Part 0: the barriers between you and pairing
+## Warm-up: the barriers between you and pairing
 Before you even get into finding a partner for pairing there will be a bit of talk happening. I called it “I would love to pair but…”, here is my best-of:
 * it doesn’t work with me : don’t worry we will be in it together
 * I don’t know anything about pairing: it’s ok, I’ll show you, sharing knowledge is a very good reason to pair (more on that in a few minutes)
