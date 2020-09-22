@@ -25,7 +25,7 @@ Pairing is a bit like a new dance. At first it feels awkward, but the more you d
 
 How do we get there, here is what I have planned for us today:
 As I said earlier pairing is a bit like a dance, so how will I get you dancing like nobody is watching! <br>
-Step 0 - The barriers between you and pairing <br>
+Warm-up - The barriers between you and pairing <br>
 Step 1 - The reasons to pair: the fundamentals, what is in for you and your team, what is not <br>
 Step 2 - The theory of pairing: a bit of theory never hurts <br>
 Step 3 - The practice of pairing: some good tools and frameworks <br>
