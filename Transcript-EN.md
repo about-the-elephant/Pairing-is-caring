@@ -90,9 +90,9 @@ The Driver & Navigator style is the most classic one. While the Navigator will a
 Our culture is full of Drivers and Navigators: Han Solo and Chewbaca, Murder & Scully, Sherlock Holmes and Watson, generator and synthesizer, artist and producer
 
 ### About boredom:
-• not the same role
-• not the same style
-• no always the same people
+* not the same role
+* not the same style
+* no always the same people
 
 ### About difference of level (choosing the right pairing partner)
 It can be tempting to pair with people who are similar to us, it is a human thing to look for peers when facing the unknown. We often gauge the level of people based on their years of experience… and it is mostly wrong.
