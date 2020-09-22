@@ -1,6 +1,6 @@
 # Pairing is caring
 #### Expected outcome: 
-After this talk, we expect the members of the audience to be more confident in giving a fresh try to pairing over a sprint 
+After this talk, we expect the members of the audience to be more confident in giving a fresh try to pairing over a sprint
 
 #### Index: 
 1. Intro
@@ -15,7 +15,7 @@ Thank you so much for being here today. I really appreciate your curiosity! As y
 
 Before we start a few important things: 
 * the transcript, slides, activities from this talk can be found at this address
-* please use the following hashtag to refer to this talk so I can follow up with you: “#pairingiscaring”
+* please use the following hashtag to refer to this talk so I can follow up with you: "#pairingiscaring"
 
 Now, on with pairing! I will start by being very honest with you: my goal today is to convince to give a fair try to pairing, regardless of your domain of expertise.  I can confirm to you that pairing is not a practice for software engineers only, it also brings a lot of value of designers and product managers.
 
@@ -24,11 +24,11 @@ Roughly speaking pairing is a practice through which two people (let’s use som
 Pairing is a bit like a new dance. At first it feels awkward, but the more you dance it the more you find your own space, find your tempo, and enjoy sharing it with your different pairing partners. While some people imagine their audience in underwear to feel less stressed, I am actually imagining you all doing the pairing dance next week! So please give me a heads up if you’re trying with a team member or even your whole team. Let me know how it goes there: @bouttheelephant #pairingiscaring
 
 How do we get there, here is what I have planned for us today:
-As I said earlier pairing is a bit like a dance, so how will I get you dancing like nobody is watching!
-Step 0 - The barriers between you and pairing
-Step 1 - The reasons to pair: the fundamentals, what is in for you and your team, what is not
-Step 2 - The theory of pairing: a bit of theory never hurts
-Step 3 - The practice of pairing: some good tools and frameworks
+As I said earlier pairing is a bit like a dance, so how will I get you dancing like nobody is watching! <br>
+Step 0 - The barriers between you and pairing <br>
+Step 1 - The reasons to pair: the fundamentals, what is in for you and your team, what is not <br>
+Step 2 - The theory of pairing: a bit of theory never hurts <br>
+Step 3 - The practice of pairing: some good tools and frameworks <br>
 
 ## Part 0: the barriers between you and pairing
 Before you even get into finding a partner for pairing there will be a bit of talk happening. I called it “I would love to pair but…”, here is my best-of:
@@ -43,30 +43,27 @@ Before you even get into finding a partner for pairing there will be a bit of ta
 ## Step 1: The good and bad reasons to pair
 ### What is pairing? 
 Pairing means bringing together 2 different mindsets or perspectives in front of 1 problem.  
-<slide>
 
 Sounds cool. Except that very often I could see stakeholders or product owners starting to shake and becoming pale. One common thing I heard is that things will be must *slower*. Well it depends of how you measure things.
-<slide>
 
 * Looking in the perspective of the pair itself, the humans in it will benefit of a higher morale, instant feedback, shared knowledge and ownership, better accountability feeling, better empath, human bonding
 * Looking in the perspective of the team, a team where the humans practice pairing is more eager to choose courage over comfort and will offer daily opportunities for growth
 * Looking in the perspective of the entity, pairing removes the needs for managers to be too involved in the flow of the team and it contributes to the team to deliver better solutions to problems at the solution that gets implemented has been challenged by two minds instead of one
 
-We love numbers: software built by pairing has an increased quality (-15% defect in production)
+For you, numbers lovers: software built by pairing has an increased quality (-15% defect in production)
 
 Sometimes I get the reverse behaviour from some stakeholders: no need for training, you will pair and this is how you’ll grow. Don’t let people go cheap and wrong when it comes to your training and development, or even your right for proper mentorship or onboarding. Pairing is great but it doesn’t replace training, these are 2 different things. 
-<slide>
+
 Moreover, there are no better victories that the ones we share with somebody else. I often hear “we are not cardiac surgeons blablabla” yes but it doesn’t mean we should undermine our talent and courage to take on new problems. 
 
 One thing for sure is that pairing is a perspective changer! It changes your perception of success and … learning ;)
-<slide>
+
 One thing that strikes me when I join a team where pairing is a common practice is this playful mindset: every new joiner is perceived as a new person to learn from. There is something slightly exciting. It is like joining a new school and every kid wants to be friend with you!
 
-Intro to Part 2: now you’re likely to still be wondering how two people get into something so harmonious just by staring at a screen together. Time to speak about the theory!
+Now you’re likely to still be wondering how two people get into something so harmonious just by staring at a screen together. Time to speak about the theory!
 
 ## Part 2: The theory of pairing
 Before we go into the mechanics of pairing, we should speak about the pairing mindset. Without the right mindset you can’t expect doing the right thing. 
-<slide>
 
 ### Pairing mindset
 Ok let’s start by acknowledging the obvious: pairing will be awkward, it will FEEL awkward. And it is normal, it is because pairing involves humans and everything with humans carries some awkwardness. 
@@ -80,7 +77,7 @@ If you cling to your ego and saving yourself from vulnerable or embarrassing mom
 
 ### The pleasure of doing the right thing
 As always with mindset, it is also a matter of perspective. If you come to pairing with an idea in mind and strive to prove this idea to be right then you’re very likely to have a pretty lame pairing experience. Because being right or wrong doesn’t last. Being right is worth nothing, while doing the right thing is priceless. 
-<slide>
+
 So stop clinging to proving your point, get over it and get over yourself.
 
 ### Pairing styles
@@ -96,27 +93,25 @@ Our culture is full of Drivers and Navigators: Han Solo and Chewbaca, Murder & S
 • not the same role
 • not the same style
 • no always the same people
-<slide>
 
 ### About difference of level (choosing the right pairing partner)
 It can be tempting to pair with people who are similar to us, it is a human thing to look for peers when facing the unknown. We often gauge the level of people based on their years of experience… and it is mostly wrong.
-<slide>
 
 One might not know a lot about a specific set of problems but they might know a lot about a lot of other things. Estimating the level of somebody is delicate and it is not a binary thing. Usually it can be roughly understood by hearing the questions the other pair asks 
-<slide> 
+
 Those 4 characters on the slide are likely to be the same person because any of us might be asking those questions. By acknowledging it, we can quickly play with the dynamics. 
 What we call dynamics are the behaviors and counter behaviors that will arise during the pairing. 
 
 ### Let’s make a game.
 Imagine 2 people pairing. They are both beginners. It means they can’t handle complexity bits that are too big and they will mostly be focused on delivering, the what. 
-<slide>
+
 Imagine one pair on the left and the other pair on the right. Try to fill the blanks by imagining what the other pair is going to answer to the first one. 
 We do the 2 first ones together. For the rest, try on your side, go to this URL and have fun. 
 
 ### About committing to pairing
-• keep flexibility
-• agree on core pairing hours in the team (that might save you from pointless meetings)
-• refrain from entering the dogma (pairing is not a religion, it’s a practice)
+* keep flexibility
+* agree on core pairing hours in the team (that might save you from pointless meetings)
+* refrain from entering the dogma (pairing is not a religion, it’s a practice)
 
 ### Red flags
 Like for every commitment, there can be some rocky moments and it is ok. However, there are some tough moments that should be vigilant:
@@ -154,9 +149,9 @@ It is normal to feel insecure but keep in mind your pair is having the same vuln
 
 #### Subjectivity
 What if I hear something super harsh?
-• some people are clumsy with words
-• feedback is subjective
-—> So pick the pieces that you are interested into and feel comfortable asking for example and help
+* some people are clumsy with words
+* feedback is subjective
+So pick the pieces that you are interested into and feel comfortable asking for example and help
 
 #### Framework
 A very simple way to cover feedback is to focus on what went well and what can be improved, we call that + / ∆
@@ -172,22 +167,24 @@ Don’t be satisfied with a “everything was great”, you do need to find out 
 Consensus is the enemy of amazingness! 
 
 If you’re not comfortable delivering feedback, especially when it comes to giving something else than praises, consider having a look at 2 books: 
-• Difficult conversations by Heen, Patton, and Stone
-• Radical Candor by Kim Scott
+* Difficult conversations by Heen, Patton, and Stone
+* Radical Candor by Kim Scott
 And, most importantly: avoid avoidance, keep practicing!
 
 ### Pairing toolset
 Finally we’re talking gears!
-• if collocated
-• if remote
+* if collocated, you'll need 2 chairs, 2 keyboards, 2 screens, 2 pointing devices,
+* if remote, you'll need any software with screen-sharing (UseTogether, Slack, Zoom, etc.)
+In any case you'll need a shared repo or folder (and a way to set up a timer if you're doing Pomodoro)
+
 
 ## Ending
 And that’s it! Let me leave you with my magic recipe. It made pairing a successful practice in my work life and I wish it will be the same for you and your future pairs.
-<slide>
-• Show up everyday
-• Discuss problems when they arise
-• Celebrate successes and failures equally
-• Keep it fun!
+
+* Show up everyday
+* Discuss problems when they arise
+* Celebrate successes and failures equally
+* Keep it fun!
 
 Let me know how it goes!
 High 5!
