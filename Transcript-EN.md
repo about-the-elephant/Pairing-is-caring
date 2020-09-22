@@ -62,10 +62,6 @@ One thing for sure is that pairing is a perspective changer! It changes your per
 <slide>
 One thing that strikes me when I join a team where pairing is a common practice is this playful mindset: every new joiner is perceived as a new person to learn from. There is something slightly exciting. It is like joining a new school and every kid wants to be friend with you!
 
--So if you want to give a try to pairing, keep in mind the following-
--<slide>-
--Pairing relies heavily on the humans who take part to it but the focus is the product they built together, this is what frees them from judgement towards each other.-
-
 Intro to Part 2: now you’re likely to still be wondering how two people get into something so harmonious just by staring at a screen together. Time to speak about the theory!
 
 ## Part 2: The theory of pairing
