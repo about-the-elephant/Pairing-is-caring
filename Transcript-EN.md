@@ -62,7 +62,7 @@ One thing that strikes me when I join a team where pairing is a common practice 
 
 Now you’re likely to still be wondering how two people get into something so harmonious just by staring at a screen together. Time to speak about the theory!
 
-## Part 2: The theory of pairing
+## Step 2: The theory of pairing
 Before we go into the mechanics of pairing, we should speak about the pairing mindset. Without the right mindset you can’t expect doing the right thing. 
 
 ### Pairing mindset
